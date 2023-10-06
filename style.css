@@ -61,3 +61,8 @@
   font-size: 18px;
   transition: 0.3s;
 }
+
+.top nav ul li a:hover,
+.top nav .icons i:hover {
+  color: #c72092;
+}
