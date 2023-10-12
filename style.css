@@ -127,3 +127,13 @@ html {
   transform: translate(-50%,-50%);
   font-size: 19px;
 }
+
+.top .main .social_icon i {
+  margin: 8px 0;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.top .main .social_icon i:hover {
+  color: #c72092;
+}
