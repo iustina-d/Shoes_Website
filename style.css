@@ -137,3 +137,12 @@ html {
 .top .main .social_icon i:hover {
   color: #c72092;
 }
+
+.top .main .button {
+  position: absolute;
+  left: 6%;
+  padding: 10px 20px;
+  border-radius: 10px 20px;
+  background: linear-gradient(to right, #c72092, #6c14d0);
+}
+
