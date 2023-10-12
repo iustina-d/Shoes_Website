@@ -145,4 +145,13 @@ html {
   border-radius: 10px 20px;
   background: linear-gradient(to right, #c72092, #6c14d0);
 }
+.top .main .button a {
+  color: white;
+  text-decoration: none;
+}
+
+.top .main .button i{
+  color: white;
+  margin-left: 5px;
+}
 
