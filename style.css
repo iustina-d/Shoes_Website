@@ -112,3 +112,10 @@ html {
   top: 85px;
   left: 5%;
 }
+
+.top .main .main_content .main_image img {
+  width: 650px;
+  position: relative;
+  left: 20px;
+  top: 75px;
+}
