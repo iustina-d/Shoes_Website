@@ -153,5 +153,10 @@ html {
 .top .main .button i{
   color: white;
   margin-left: 5px;
+  transition: 0.3s;
+}
+
+.top .main .button:hover i {
+  transform: translate(6px);
 }
 
